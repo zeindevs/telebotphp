@@ -1,5 +1,5 @@
 {
-    "name": "zee/php-bot",
+    "name": "zeindevs/telebotphp",
     "type": "project",
     "description": "The skeleton application for the PHP Telegram BOT.",
     "keywords": ["PHP", "BOT", "Telegram"],
@@ -16,8 +16,8 @@
     },
     "authors": [
         {
-            "name": "zee",
-            "email": "zeedevss@gmail.com"
+            "name": "zeindevs",
+            "email": "zeindevs@gmail.com"
         }
     ],
     "config": {
